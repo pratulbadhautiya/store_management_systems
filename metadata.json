@@ -1,0 +1,6 @@
+{
+  "name": "MyShoply",
+  "description": "AI-powered multi-tenant shop management platform and intelligent retail operating system for grocery and retail shopkeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
