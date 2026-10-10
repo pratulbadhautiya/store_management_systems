@@ -1,4 +1,15 @@
 # 🛍️ MyShoply – Store Management System
+## 🌐 Live Demo
+
+🚀 **Live Application:** [MyShoply – Store Management System](https://myshoply.ai.studio)
+
+💻 **GitHub Repository:** [View Source Code](https://github.com/pratulbadhautiya/store_management_systems)
+
+Explore MyShoply online and check out the source code on GitHub.
+
+---
+
+⭐ If you find MyShoply useful, don't forget to star the repository!
 
 **Simplify Your Store. Manage Smarter. Grow Faster.**
 
